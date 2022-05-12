@@ -12,11 +12,15 @@ RONR est un outil informatique développé par la communauté Konsilion Low-tech
 * **Tutoriel vidéo** : [De zéro à héro : Consulter le tutoriel](https://www.youtube.com/watch?v=RCivWovB3Kg)
 * **Version actuelle** : 1.0.1
 
-### Hub Konsilion
+## Hub Konsilion
 
 * **Accéder directement au Hub Konsilion** : Bientôt disponible
 
-### Intallation en local
+## Intallation en local
+
+> Pré-requis
+> * in
+> * kn
 
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
 
@@ -25,7 +29,7 @@ Afin de faciliter le déploiement de modèle numérique nous employons la techno
 * **Installation de docker** [*Tutoriel Konsilion*](https://www.youtube.com/watch?v=RCivWovB3Kg)
 * **Installation et prise en main de RONR** [*Accèder direct à la vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
 
-### Données d'entrées
+## Documentation et ressources
 
 Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
 
