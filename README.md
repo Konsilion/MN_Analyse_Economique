@@ -16,7 +16,9 @@ Afin d'assurer une grande appropriation de ce modèle, les données d'entrées s
 
 ## Résultats
 
-* ![Résultat1](https://img.shields.io/badge/Disponible-Non-red.svg) | Rapport d'analyse économique.
+![Résultat1](https://img.shields.io/badge/Disponible-Non-red.svg)
+![Résultat2](https://img.shields.io/badge/Fichier-PDF-green.svg)
+Rapport d'analyse économique.
 
 ### Installations
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
