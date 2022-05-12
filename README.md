@@ -2,10 +2,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![GitHub top language](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
+![GitHub top language](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg)
 
-
-${{ env.REPOSITORY_OWNER }}
 
 Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière. Le modèles numériques présenté ici requiert des données d'entrées () afin de vous présenter les résultats présentés ci-après.
 
