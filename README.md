@@ -10,8 +10,8 @@
 RONR est un outil informatique développé par la communauté Konsilion Low-tech. Après avoir défini vos investissements, les charges prévisionnels et les produits/économies, vous pouvez générer automatiquement un rapport PDF qui vous expliquera les points forts et les faiblesse économiques de votre solution.
 
 * **Tutoriel vidéo** [*De zéro à héro : Consulter le tutoriel*](https://www.youtube.com/watch?v=RCivWovB3Kg)
-* **Version actuelle ** : 1.0.1
-* **Accéder au Hub Konsilion ** : *Bientôt disponible*
+* **Version actuelle** : 1.0.1
+* **Accéder au Hub Konsilion** : *Bientôt disponible*
 
 ### Intallations
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
