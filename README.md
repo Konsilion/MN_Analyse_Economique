@@ -1,3 +1,9 @@
+This is my [random value] located somewhere in my Markdown document.
+
+[random value]: variable value
+
+
+
 # RentableOrNotRentable - RONR
 ![](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
