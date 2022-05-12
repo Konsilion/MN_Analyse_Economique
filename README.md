@@ -1,6 +1,6 @@
-This is [an example](http://example.com/ "Title") inline link.
+Here is the [first link][var1]
 
-[This link](http://example.net/) has no title attribute.
+[var1]: https://example.org
 
 
 # RentableOrNotRentable - RONR
