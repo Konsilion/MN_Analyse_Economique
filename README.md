@@ -1,8 +1,3 @@
-Here is the [first link][var1]
-
-[var1]: https://example.org
-
-
 # RentableOrNotRentable - RONR
 ![](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
@@ -63,4 +58,12 @@ Ce document est régi par les termes de la licence juridique [Creative Commons C
 ---
 
 Vous avez découvert des erreurs ? Vous pensez pouvoir améliorer cette documentation ? Cliquez sur :pencil2: en haut de la page pour proposer vos changements.
+
+
+
+
+
+Here is the [first link][var1]
+
+[var1]: https://example.org
 
