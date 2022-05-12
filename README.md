@@ -4,11 +4,11 @@
 ![](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg?color=fedcba)
 ![](https://img.shields.io/badge/Maintenu-Oui-green.svg)
 
-[*Consulter le tutoriel vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
-
 > **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être intéressant d'en évaluer les performances économiques.
 
 ## Présentation globale
+
+[*Consulter le tutoriel vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
 
 ### Intallations
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
