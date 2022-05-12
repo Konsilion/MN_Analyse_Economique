@@ -17,14 +17,14 @@ Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiem
 
 * **Accéder directement au Hub Konsilion** : Bientôt disponible
 
-## Intallation en local
+## Installation en local
 
-[](https://img.shields.io/badge/Notion_à_maitriser-_Git,_Docker_desktop-green.svg)
+![](https://img.shields.io/badge/Notion_à_maitriser-_Git,_Docker_desktop-green.svg)
 
 Afin de faciliter le déploiement de modèle numérique nous employons la technologie Docker. Ainsi avec Docker Desktop vous pouvez en quelques clics, installer des outils informatiques sur votre ordinateur, tout en optimisant les ressources (RAM, Espace de stockage et CPU).
 
-* **Installation de docker (si non installé)** [Y accèder](https://www.youtube.com/watch?v=RCivWovB3Kg)
-* **Installation et prise en main de RONR** [Y accèder](https://www.youtube.com/watch?v=RCivWovB3Kg)
+* **Installation de docker (si non installé)** : [Y accèder](https://www.youtube.com/watch?v=RCivWovB3Kg)
+* **Installation et prise en main de RONR** : [Y accèder](https://www.youtube.com/watch?v=RCivWovB3Kg)
 
 ## Documentation et ressources
 
