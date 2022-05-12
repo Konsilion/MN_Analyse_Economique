@@ -19,9 +19,8 @@ Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiem
 
 ## Intallation en local
 
-> ![](https://img.shields.io/badge/Pré_requis-Git,_Docker_desktop-green.svg)
-> 
-> * Maitriser les notions suivantes : Docker, Git
+> ![](https://img.shields.io/badge/Notion_à_maitriser-_Git,_Docker_desktop-green.svg)
+
 
 
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
