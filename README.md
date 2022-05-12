@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge&logo=appveyor)
-![GitHub language count](https://img.shields.io/github/languages/count/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge&logo=appveyor)
-![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge&logo=appveyor)
-![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=?style=for-the-badge&logo=appveyor)
+![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=?style=for-the-badge)
 
 
 # Définir la pertinence économique d'une solution
