@@ -1,19 +1,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=?style=for-the-badge)
 
+![GitHub last commit](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # Définir la pertinence économique d'une solution
-<p align="center">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=konsilion&repo=MN_Analyse_Economique&countColor=%237B1E7A&style=for-the-badge" />
-   </a>
-</p>
-
-<p>
-<a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-</p>
 
 Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière. Le modèles numériques présenté ici requiert des données d'entrées () afin de vous présenter les résultats présentés ci-après.
 
