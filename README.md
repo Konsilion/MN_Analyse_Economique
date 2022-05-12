@@ -8,7 +8,9 @@
 
 > **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être intéressant d'en évaluer les performances économiques.
 
-## Installations
+## Présentation globale
+
+### Intallations
 ![](https://img.shields.io/badge/Windows-Oui-green.svg)
 ![](https://img.shields.io/badge/MacOS-Non-red.svg)
 ![](https://img.shields.io/badge/Linux-Non-red.svg)
@@ -16,11 +18,11 @@
 
 > Afin de faire bon usage de ce modèles numérique, nous vous recommandons de consulter les notices d'utilisation selon votre système d'exploitation.
 
-## Données d'entrées
+### Données d'entrées
 
 Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
 
-## Résultats
+### Résultats
 
 ![](https://img.shields.io/badge/Disponible-Non-red.svg)
 ![](https://img.shields.io/badge/Fichier-PDF-green.svg)
