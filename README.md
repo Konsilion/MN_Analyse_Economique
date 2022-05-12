@@ -12,7 +12,7 @@ RONR est un outil informatique développé par la communauté Konsilion Low-tech
 * **Tutoriel vidéo** : [De zéro à héro : Consulter le tutoriel](https://www.youtube.com/watch?v=RCivWovB3Kg)
 * **Version actuelle** : 1.0.1
 
-## Hub Konsilion
+## Konsilion Hub
 Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiement du Hub (serveur d'application) dans lequel vous retouverez directement nos différentes application sans aucune installation ! :smiley:
 
 * **Accéder directement au Hub Konsilion** : Bientôt disponible
@@ -20,8 +20,9 @@ Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiem
 ## Intallation en local
 
 > Pré-requis
-> * in
-> * kn
+> ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
+> * Maitriser les notions suivantes : Docker, Git
+
 
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
 
