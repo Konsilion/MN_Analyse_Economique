@@ -7,6 +7,7 @@
 **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être intéressant d'en évaluer les performances économiques.
 
 ## Présentation globale
+![](https://img.shields.io/badge/Objectif_du_code-_Par_le_renseignement_de_données_parlantes_fournir_un_rapport_exhaustif_des_aspects_économomique-green.svg)
 
 RONR est un outil informatique développé par la communauté Konsilion Low-tech. Après avoir défini vos investissements, les charges prévisionnels et les produits/économies, vous pouvez générer automatiquement un rapport PDF qui vous expliquera les points forts et les faiblesse économiques de votre solution.
 
