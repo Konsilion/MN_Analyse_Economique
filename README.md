@@ -38,8 +38,6 @@ Afin de faciliter le déploiement de modèle numérique nous employons la techno
 * Reporter une erreur : [Y accèder](https://github.com/Konsilion/MN_Analyse_Economique/issues)
 * Site web de Konsilion : [Y accèder](https://konsilion.fr)
 
-<img src="https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png" alt="drawing" width="400"/>
-
 -----------
 Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr) 
 
