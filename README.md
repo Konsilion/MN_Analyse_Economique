@@ -3,7 +3,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![GitHub top language](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg)
-![GitHub top language](https://github-readme-stats.vercel.app/api/top-langs/?username=Konsilion&theme=blue-green)
 	
   
   
