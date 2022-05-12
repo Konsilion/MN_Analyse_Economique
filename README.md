@@ -1,5 +1,4 @@
-<img src="https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png" alt="drawing" width="400"/>
-
+---
 # Définir la pertinence économique
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
@@ -13,21 +12,22 @@ Lors du déploiement d'une solution, même si cette dernière est d'une utilité
 
 Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
 
-## Description du processus :
+## Description du processus
 
 
-## Résultats :
-
-## Informations complémentaires
-
-### Les modèles numériques Konsilion
+## Résultats
 
 
-### Disponible pour
+### Installations
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+---
+## Konsilion, Kesako ?
+
+<img src="https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png" alt="drawing" width="400"/>
 
 -----------
 Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr) 
