@@ -8,15 +8,12 @@
 
 ## Présentation globale
 
-![](https://img.shields.io/badge/Notion_à_maitriser-_Aucune_-green.svg)
-
-![](https://img.shields.io/badge/Notion_à_maitriser-_Aucune_-green.svg)
-![](https://img.shields.io/badge/Notion_à_maitriser-_Aucune_-green.svg)
-
 RONR est un outil informatique développé par la communauté Konsilion Low-tech. Après avoir défini vos investissements, les charges prévisionnels et les produits/économies, vous pouvez générer automatiquement un rapport PDF qui vous expliquera les points forts et les faiblesse économiques de votre solution.
 
 * **Tutoriel vidéo** : [Y accèder](https://www.youtube.com/watch?v=RCivWovB3Kg)
 * **Version actuelle** : 1.0.1
+* **Démo** : Bientôt disponible
+
 
 ## Konsilion Hub
 
@@ -37,16 +34,9 @@ Afin de faciliter le déploiement de modèle numérique nous employons la techno
 
 ## Documentation et ressources
 
-Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
-
-### Résultats
-
-![](https://img.shields.io/badge/Disponible-Non-red.svg)
-![](https://img.shields.io/badge/Fichier-PDF-green.svg)
-Rapport d'analyse économique.
-
----
-## Konsilion, Kesako ?
+* Documentation officielle : Bientôt disponible
+* Reporter une erreur : [Y accèder](https://github.com/Konsilion/MN_Analyse_Economique/issues)
+* Site web de Konsilion : [Y accèder](https://konsilion.fr)
 
 <img src="https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png" alt="drawing" width="400"/>
 
