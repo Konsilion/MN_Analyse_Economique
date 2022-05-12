@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/REPOSITORY?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/Konsilion/USER/REPOSITORY?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/REPOSITORY?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/REPOSITORY?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/Konsilion/USER/MN_Analyse_Economique?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=plastic)
 
 
 # Définir la pertinence économique d'une solution
