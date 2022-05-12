@@ -6,7 +6,7 @@
 
 [*Consulter le tutoriel vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
 
-> **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière.
+> **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être intéressant d'en évaluer les performances économiques.
 
 ## Installations
 ![](https://img.shields.io/badge/Windows-Oui-green.svg)
