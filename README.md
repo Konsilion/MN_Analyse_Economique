@@ -43,7 +43,7 @@ Afin de faciliter le déploiement de modèle numérique nous employons la techno
 -----------
 Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr) 
 
-<img style="display: block; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="20%">
+<img style="display: center; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="20%">
 
 ---
 
