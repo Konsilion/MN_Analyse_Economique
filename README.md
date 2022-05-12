@@ -4,15 +4,19 @@
 ![GitHub top language](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg?color=fedcba)
 ![Maintenance](https://img.shields.io/badge/Maintenu-Oui-green.svg)
 
-
 > Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière.
+
+### Installations
+> Afin de faire bon usage de ce modèles numérique, nous vous recommandons de consulter les notices d'utilisation selon votre système d'exploitation.
+
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## Données d'entrées
 
-Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
-
-## Description du processus
-
+> Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
 
 ## Résultats
 
@@ -20,10 +24,7 @@ Afin d'assurer une grande appropriation de ce modèle, les données d'entrées s
 ![Résultat2](https://img.shields.io/badge/Fichier-PDF-green.svg)
 Rapport d'analyse économique.
 
-### Installations
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ---
