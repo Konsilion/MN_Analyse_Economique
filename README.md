@@ -13,6 +13,7 @@ RONR est un outil informatique développé par la communauté Konsilion Low-tech
 * **Version actuelle** : 1.0.1
 
 ## Hub Konsilion
+Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiement du Hub (serveur d'application) dans lequel vous retouverez directement nos différentes application sans aucune installation ! :smiley:
 
 * **Accéder directement au Hub Konsilion** : Bientôt disponible
 
