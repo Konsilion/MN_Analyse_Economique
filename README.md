@@ -11,7 +11,7 @@
 ## Présentation globale
 
 ### Intallations
-![](https://img.shields.io/badge/Docker-Non-red.svg)
+![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
 
 > Afin de faire bon usage de ce modèles numérique, nous vous recommandons de consulter les notices d'utilisation selon votre système d'exploitation.
 
