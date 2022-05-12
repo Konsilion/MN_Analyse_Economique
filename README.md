@@ -1,4 +1,4 @@
-# RentableOrNotRentable by Konsilion
+# RentableOrNotRentable - RONR
 ![](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg?color=fedcba)
@@ -7,8 +7,9 @@
 > **Comment évaluer la pertinence économique d'une solution ?** Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être intéressant d'en évaluer les performances économiques.
 
 ## Présentation globale
+RONR est un outil informatique développé par la communauté Konsilion Low-tech. Après avoir défini vos investissements, les charges prévisionnels et les produits/économies, vous pouvez générer automatiquement un rapport PDF qui vous expliquera les points forts et les faiblesse économiques de votre solution.
 
-[*Consulter le tutoriel vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
+[*De zéro à héro : Consulter le tutoriel*](https://www.youtube.com/watch?v=RCivWovB3Kg)
 
 ### Intallations
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
