@@ -9,12 +9,19 @@
 ## Présentation globale
 RONR est un outil informatique développé par la communauté Konsilion Low-tech. Après avoir défini vos investissements, les charges prévisionnels et les produits/économies, vous pouvez générer automatiquement un rapport PDF qui vous expliquera les points forts et les faiblesse économiques de votre solution.
 
-[*De zéro à héro : Consulter le tutoriel*](https://www.youtube.com/watch?v=RCivWovB3Kg)
+* **Tutoriel vidéo** [*De zéro à héro : Consulter le tutoriel*](https://www.youtube.com/watch?v=RCivWovB3Kg)
+* **Version actuelle ** : 1.0.1
+* **Accéder au Hub Konsilion ** : *Bientôt disponible*
 
 ### Intallations
 ![](https://img.shields.io/badge/Docker-Non_disponible-red.svg)
 
-> Afin de faire bon usage de ce modèles numérique, nous vous recommandons de consulter les notices d'utilisation selon votre système d'exploitation.
+Afin de faciliter le déploiement de modèle numérique nous employons la technologie Docker. Ainsi avec Docker Desktop vous pouvez en quelques clics, installer des outils informatiques sur votre ordinateur, tout en optimisant les ressources (RAM, Espace de stockage et CPU).
+
+* **Installation de docker** [*Tutoriel Konsilion*](https://www.youtube.com/watch?v=RCivWovB3Kg)
+* **Installation et prise en main de RONR** [*Accèder direct à la vidéo*](https://www.youtube.com/watch?v=RCivWovB3Kg)
+
+
 
 ### Données d'entrées
 
