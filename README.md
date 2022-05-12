@@ -1,7 +1,10 @@
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 # Définir la pertinence économique d'une solution
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=?style=for-the-badge)
+
+
 Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière. Le modèles numériques présenté ici requiert des données d'entrées () afin de vous présenter les résultats présentés ci-après.
 
 ## Données d'entrées :
