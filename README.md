@@ -17,7 +17,7 @@ RONR est un outil informatique développé par la communauté Konsilion Low-tech
 
 ## Konsilion Hub
 
-![](https://img.shields.io/badge/Notion_à_maitriser-_Aucune_-green.svg)
+![](https://img.shields.io/badge/Notion_à_maitriser-_Aucune_-success.svg)
 
 Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiement du Hub (serveur d'application) dans lequel vous retouverez directement nos différentes application sans aucune installation ! :smiley:
 
@@ -25,7 +25,7 @@ Afin d'aumenter l'appropriation des techniques nous travaillons sur le déploiem
 
 ## Installation en local
 
-![](https://img.shields.io/badge/Notion_à_maitriser-_Git,_Docker_desktop-green.svg)
+![](https://img.shields.io/badge/Notion_à_maitriser-_Git,_Docker_desktop-success.svg)
 
 Afin de faciliter le déploiement de modèle numérique nous employons la technologie Docker. Ainsi avec Docker Desktop vous pouvez en quelques clics, installer des outils informatiques sur votre ordinateur, tout en optimisant les ressources (RAM, Espace de stockage et CPU).
 
