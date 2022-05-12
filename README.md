@@ -1,7 +1,6 @@
-This is my [random value] located somewhere in my Markdown document.
+This is [an example](http://example.com/ "Title") inline link.
 
-[random value]: variable value
-
+[This link](http://example.net/) has no title attribute.
 
 
 # RentableOrNotRentable - RONR
