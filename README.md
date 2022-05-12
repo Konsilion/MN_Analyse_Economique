@@ -18,9 +18,7 @@ Afin d'assurer une grande appropriation de ce modèle, les données d'entrées s
 ## Informations complémentaires
 
 ### Les modèles numériques Konsilion
-
-![](https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png)
-
+<img src="https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2.png" alt="drawing" width="200"/>
 
 ### Disponible pour
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
