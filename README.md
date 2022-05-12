@@ -19,6 +19,7 @@ Ce document est régi par les termes de la licence juridique [Creative Commons C
 <img style="display: block; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="20%">
 
 ---
-:::info
+
+:::
 Vous avez découvert des erreurs ? Vous pensez pouvoir améliorer cette documentation ? Cliquez sur :pencil2: en haut de la page pour proposer vos changements.
 :::
