@@ -1,4 +1,4 @@
-# Comment écaluer la pertinence économique d'une solution ?
+# Comment évaluer la pertinence économique d'une solution ?
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg?color=fedcba)
@@ -7,7 +7,7 @@
 
 > Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière.
 
-## Données d'entrées :
+## Données d'entrées
 
 Afin d'assurer une grande appropriation de ce modèle, les données d'entrées sont à renseigner dans votre tableur favoris (LibreCalc, Excel, etc...). Toutes les informations complémentaires sont inscrites dans la page 'Accueil' du tableur ().
 
@@ -16,6 +16,7 @@ Afin d'assurer une grande appropriation de ce modèle, les données d'entrées s
 
 ## Résultats
 
+* Rapport d'analyse économique.![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge) 
 
 ### Installations
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
