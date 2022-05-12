@@ -1,5 +1,5 @@
 # RentableOrNotRentable - RONR
-![](https://img.shields.io/badge/Objectif_du_code-_Fournir_un_rapport_exhaustif_des_aspects_économomiques_d'une_technique-grey.svg)
+![](https://img.shields.io/badge/Objectif_du_code-_Fournir_un_rapport_exhaustif_des_aspects_économomiques_d'une_technique-white.svg)
 
 ![](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
