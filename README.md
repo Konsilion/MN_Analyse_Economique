@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Konsilion/MN_Analyse_Economique?color=red&style=?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 # Définir la pertinence économique d'une solution
 
 Lors du déploiement d'une solution, même si cette dernière est d'une utilité clair, il peut être nécessaire d'évaluer les performances économiques de cette dernière. Le modèles numériques présenté ici requiert des données d'entrées () afin de vous présenter les résultats présentés ci-après.
