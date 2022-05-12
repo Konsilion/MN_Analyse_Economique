@@ -20,6 +20,5 @@ Ce document est régi par les termes de la licence juridique [Creative Commons C
 
 ---
 
-:::
 Vous avez découvert des erreurs ? Vous pensez pouvoir améliorer cette documentation ? Cliquez sur :pencil2: en haut de la page pour proposer vos changements.
-:::
+
