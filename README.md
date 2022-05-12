@@ -1,7 +1,7 @@
 # Définir la pertinence économique d'une solution
 ![GitHub repo size](https://img.shields.io/github/repo-size/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Konsilion/MN_Analyse_Economique?style=?style=for-the-badge)
-![GitHub top language](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub top language](https://img.shields.io/badge/Maintenu%3F-yes-green.svg)
 ![GitHub top language](https://img.shields.io/github/downloads/Konsilion/MN_Analyse_Economique/total.svg)
 	
   
